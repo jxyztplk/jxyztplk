@@ -1,6 +1,5 @@
 - [Résumé](https://drive.google.com/file/d/12fR5CS1jrZc_L3zR02tXp6tL1Kl9Qdis/view)
 - [LinkedIn](https://www.linkedin.com/in/johnmercedes/)
-- [GitHub](https://github.com/jxyztplk)
 - [Hugging Face](https://huggingface.co/jxyztplk)
 - [X/Twitter](https://x.com/jxyztplk)
 - [Newsletter](https://jxyztplk.substack.com)
